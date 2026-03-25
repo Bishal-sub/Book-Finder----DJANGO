@@ -74,7 +74,7 @@ book_finder/
 
 ### 🏠 Homepage
 
-<img width="100" height="907" alt="Screenshot 2026-03-25 074029" src="https://github.com/user-attachments/assets/1ff9d22e-68e1-492a-8efa-0180302d8d8a" />
+<img width="1840" height="907" alt="Screenshot 2026-03-25 074029" src="https://github.com/user-attachments/assets/1ff9d22e-68e1-492a-8efa-0180302d8d8a" />
 
 
 ### 🏬 Store Listing
@@ -85,7 +85,9 @@ book_finder/
 ### ⚙️ Admin Panel
 
 <img width="1856" height="832" alt="Screenshot 2026-03-25 074426" src="https://github.com/user-attachments/assets/f467c250-820e-4d18-8ef3-b046aca3a2ac" />
+<img width="1887" height="853" alt="Screenshot 2026-03-25 074455" src="https://github.com/user-attachments/assets/29655c5f-c782-4241-8858-654f23e99e17" />
 
+<img width="1887" height="853" alt="Screenshot 2026-03-25 074455" src="https://github.com/user-attachments/assets/1b9bd3c5-4563-4864-b2c2-dd9ac7d067dc" />
 
 ---
 
