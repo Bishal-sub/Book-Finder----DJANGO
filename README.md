@@ -103,7 +103,7 @@ book_finder/
 ### ⚡ Installation
 
 ```bash
-git clone https://github.com/bishal-sub/bookfinder.git
+git clone https://github.com/Bishal-sub/Book-Finder----DJANGO.git
 cd bookfinder
 ```
 
